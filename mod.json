@@ -1,0 +1,22 @@
+{
+    "modId": "underground_line_design",
+    "revision": 1,
+    "dependencies": null,
+    "incompatibilities": null,
+    "options": null,
+    "preRunScript": {
+        "fileName": ""
+    },
+    "runScript": {
+        "fileName": ""
+    },
+    "postRunScript": {
+        "fileName": ""
+    },
+    "severityAdd": "None",
+    "severityRemove": "None",
+    "cosmetic": false,
+    "visible": true,
+    "params": null,
+    "url": ""
+}

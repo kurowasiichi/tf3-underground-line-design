@@ -1,0 +1,22 @@
+{
+    "name": "Underground View in Line Design",
+    "summary": "The underground switch of the construction tools in the line manager.",
+    "description": "Underground stations and tunnels cannot be seen or picked in the line manager. While the line manager is open, this mod shows the Underground switch of the construction tools at the top right of the screen, and the underground key of the construction tools (G by default) toggles it as well. When it is on, the ground turns white as in the construction tools, and underground stations, stops and tracks are shown and can be picked when creating or editing a line. Line and vehicle colors stay as they are.\n\nThe underground view keeps its state for the whole game session. The mod only changes the user interface and has no game script, so it can be added to or removed from existing saves.",
+    "localization": {
+        "zh_TW": {
+            "name": "路線規劃地下檢視",
+            "summary": "路線管理也能用建造工具的地下開關。",
+            "description": "路線管理看不到也點不到地下車站與隧道。這個模組在開著路線管理時，於畫面右上角顯示建造工具的「地下」開關，也能用建造工具的地下切換鍵（預設 G）切換。打開後地面和建造工具一樣刷白，新增或編輯路線時可以看見並點選地下車站、站牌與軌道，路線與車輛的顏色照舊。\n\n地下檢視的狀態在同一次遊戲期間保留。模組只改介面、沒有遊戲腳本，舊存檔可以隨時加入或移除。"
+        }
+    },
+    "authors": [
+        {
+            "name": "kurowasiichi",
+            "role": "CREATOR"
+        }
+    ],
+    "tags": [
+        "Script Mod"
+    ],
+    "url": ""
+}
